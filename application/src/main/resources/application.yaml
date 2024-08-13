@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: task
+integration:
+  bank:
+    attempts: 30
+    delay: 1
